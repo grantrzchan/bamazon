@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/grantrzchan/bamazon#readme",
   "dependencies": {
-    "inquirer": "^3.2.3",
+    "chalk": "^2.1.0",
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.3.0",
     "mysql": "^2.14.1"
   }
 }
